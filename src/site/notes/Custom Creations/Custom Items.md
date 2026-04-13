@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/custom-creations/custom-items/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/custom-creations/custom-items/","dgShowBacklinks":"true","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowToc":"true","dgLinkPreview":"true"}
 ---
 
 
